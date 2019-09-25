@@ -1,0 +1,20 @@
+Package: polygondraw
+Title: get extent file from leaflet map
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Jouke",
+           family = "Verstappen",
+           role = c("aut", "cre"),
+           email = "jouke.verstappen@rhdhv.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: just trying to get a package on git
+License: none
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    leaflet,
+    raster,
+    leaflet.extras,
+    shiny,
+    dplyr
+RoxygenNote: 6.1.1
