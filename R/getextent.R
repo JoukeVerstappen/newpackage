@@ -39,5 +39,5 @@ getextent <-function(){
              Right_north$ymax)
     area_extent_list[[i]] <- (extent_area)
   }
-  return(area_extent_list)
+  assign("area_extent_list",area_extent_list, envir = .GlobalEnv)
 }
