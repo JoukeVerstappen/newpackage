@@ -15,6 +15,9 @@
 #' @note experimental, just checking how to map a package and how to use gitlab
 #'
 
+library(shiny)
+library(stringr)
+
 polygon_draw <-
 function() {
 
