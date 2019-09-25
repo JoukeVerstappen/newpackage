@@ -9,6 +9,7 @@
 #' @import leaflet
 #' @import shiny
 #' @import leaflet.extras
+#' @import stringr
 #' @return returns list with extent files in working directory which can be used as bbox
 #'
 #' @note experimental, just checking how to map a package and how to use gitlab

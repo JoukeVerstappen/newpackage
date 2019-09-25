@@ -16,5 +16,6 @@ Imports:
     raster,
     leaflet.extras,
     shiny,
-    dplyr
+    dplyr,
+    stringr
 RoxygenNote: 6.1.1
