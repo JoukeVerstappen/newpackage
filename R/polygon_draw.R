@@ -20,7 +20,7 @@ function() {
   #############################
   ######### Shiny App #########
   #############################
-
+ print("just checking")
   ## ui of only the leaflet map
   ui <- fluidPage(leafletOutput("leafmap"),
                   actionButton("ending","Done"))
