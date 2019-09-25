@@ -9,6 +9,6 @@
 Easily create \code{extent} files for creating bbox
 }
 \author{
-\strong{Maintainer}: First Last \email{first.last@example.com} (YOUR-ORCID-ID)
+\strong{Maintainer}: Jouke Verstappen \email{jouke.verstappen@rhdhv.com} (YOUR-ORCID-ID)
 
 }

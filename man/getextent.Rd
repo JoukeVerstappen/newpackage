@@ -6,9 +6,6 @@
 \usage{
 getextent()
 }
-\arguments{
-\item{loc_file}{folder where to save the extent file}
-}
 \value{
 returns list with extent files in working directory which can be used as bbox
 }
